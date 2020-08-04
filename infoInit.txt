@@ -1,0 +1,18 @@
+-- This project uses the following licenses:
+-- MIT License
+-- Copyright (c) 2020 Ricardo Mendoza 
+-- Montréal Québec Canada
+
+Description - In this project we will develop a calculator type consol in C # .NET.
+https://github.com/RicardoAMendoza/prjCon_Cs_Calculatrice
+
+-- TITLE
+1. create repository in GitHub : prjCon_Cs_Calculatrice
+2. create file : prjCon_Cs_Calculatrice
+3. open git Bash
+4. create README.md inside prjCon_Cs_Calculatrice
+   git init
+5. git add README.md
+6. git commit -m "first commit"
+7. git remote add origin https://github.com/RicardoAMendoza/prjCon_Cs_Calculatrice.git
+8. git push -u origin master
