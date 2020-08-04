@@ -17,5 +17,8 @@ D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatri
 D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\obj\Debug\prjCon_Cs_Calculatrice.exe
 D:\11.CV\28.Fernand_LEVIO\Cs_CodeNET\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\obj\Debug\prjCon_Cs_Calculatrice.pdb
 D:\10.Portafolio\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\bin\Debug\prjCon_Cs_Calculatrice.exe.config
+D:\10.Portafolio\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\bin\Debug\prjCon_Cs_Calculatrice.exe
+D:\10.Portafolio\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\bin\Debug\prjCon_Cs_Calculatrice.pdb
+D:\10.Portafolio\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\obj\Debug\prjCon_Cs_Calculatrice.csprojResolveAssemblyReference.cache
 D:\10.Portafolio\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\obj\Debug\prjCon_Cs_Calculatrice.exe
 D:\10.Portafolio\prjCon_Cs_Calculatrice\prjCon_Cs_Calculatrice\obj\Debug\prjCon_Cs_Calculatrice.pdb
