@@ -26,7 +26,7 @@ namespace prjCon_Cs_Calculatrice
                     b = Convert.ToDouble(Console.ReadLine());
 
                     Console.WriteLine("\nSelect operation\n", Console.ForegroundColor = ConsoleColor.Green);
-                    Console.WriteLine("\n1 = SUM -> a + b \n2 = SUBSTRACTION -> a - b \n3 = MULTIPLICATION -> a * b \n4 = DIVISION -> a / b \n", Console.ForegroundColor = ConsoleColor.Green);
+                    Console.WriteLine("\n1 = SUM -> a + b \n2 = SUBSTRACTION -> a - b \n3 = MULTIPLICATION -> a * b \n4 = DIVISIONgit  -> a / b \n", Console.ForegroundColor = ConsoleColor.Green);
          
                     select = Convert.ToInt32(Console.ReadLine());
                     switch (select)
